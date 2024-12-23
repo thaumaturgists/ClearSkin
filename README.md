@@ -9,7 +9,7 @@ From this Multilingualism to the right, and Wikimedia Tooling the Wikipedia Curi
 Open Access Reliability Engineering Programming Language
 
 ## Table of Contents
-- [Chapter 1: Introduction](chapters/heterioneer1.html)
+- [Chapter 1: Introduction](chapters/heterioneer1.md)
 - [Chapter 2: Topic Overview](chapters/heterioneer2.md)
 - [Chapter 3: Deep Dive](chapters/heterioneer3.md)
 - [Chapter 4: Reflections](chapters/heterioneer4.md)
