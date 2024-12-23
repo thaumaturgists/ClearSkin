@@ -1,6 +1,6 @@
 # Chapter 1: Introduction
 
-[Empathy and Localization](https://github.com/thaumaturgists/subcortical)
+[https://github.com/thaumaturgists/subcortical](https://github.com/thaumaturgists/subcortical)
 
 ## Empathy and Localization
 The book is made from empathy, focusing on the localization of saving the world while working independently. It emphasizes that the organization is not solely about saving the world alone, but rather acknowledges the possibility that it could.
