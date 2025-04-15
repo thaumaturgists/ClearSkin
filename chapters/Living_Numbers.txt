@@ -1,13 +1,12 @@
 
 
-
 I have spent the last two years working on a personal project.  
 
 It has been joyful and fun for me, and every moment feels like heaven.  
 
 I want to start transforming its skin into a relatable location that everyone can visit and utilize for the advancement of goodwill and humanity in order to deepen my love.  
 
-I stumbled onto you on the MIT website while following my own path, and your Daedalus Project seems like the perfect fit for me, so there's no sense to look elsewhere.  
+I stumbled onto the MIT website while following my path and found that the Daedalus Project seems like the perfect fit for me.
 
 I would like to share my wings with the world.
 
@@ -92,7 +91,7 @@ Many have tried to solve pi though counting to infinity, then that part is alrea
 
 x='digit position' / y='The digit position of 245' = 'The whole and 42 digits after', catches
 
- and the countdown of 0802010 as the finding of non-trivial zeros and if there are other catches I place them here.
+ and the countdown of 080402010 as the finding of non-trivial zeros and if there are other catches I place them here.
 =================================================
 ### Data Breakdown
 
@@ -205,7 +204,7 @@ x=1111 / y=245 = 4.534693877551020408163265306122448979591836, 8040201-0@11, 30<
 	##### This the zero of pi, left 2, 4 above, 5 below, and 1 right, and why 245 is used for dividing
 	245 {
 			            535940812848
-			           52712019091
+8109756659334461284756482337867831652712019091	// Distance of 42.
 87006606315588174881520920962829254091715364367892590360011330530
 }
 x=245 / y=245 = 1, 80402010, 0@0
