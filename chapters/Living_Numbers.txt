@@ -43,7 +43,7 @@ you can repeatedly halve 0.5. If you start with 0.5 and halve it 15 times, the c
 15. \( \frac{0.000030517578125}{2} = 0.0000152587890625 \)
 
 After halving 0.5 a total of 15 times, the result is approximately \(0.0000152587890625\).
-5857 but we will get to that concept later, as for now this represents 15 is 25.
+5875 but we will get to that concept later, as for now this represents 15 is 25.
 
 To halve 65,536 a total of 15 times, you can perform the calculation as follows:
 
